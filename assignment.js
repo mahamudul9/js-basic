@@ -1,4 +1,4 @@
-// github link
+// https://github.com/mahamudul9/assignment-3
 //number-1
 function kilometerToMeter(num){
     if(num<=0){ //checking for wrong input
